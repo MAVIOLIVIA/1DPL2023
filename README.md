@@ -1,5 +1,5 @@
-# 1DPL2023
-###Maria  Olivia Mota Cordeiro
-##PENSAMENTO COMPUTACIONAL
-#PAULO LEMINSKI
+### 1DPL2023
+# Maria  Olivia Mota Cordeiro
+### PENSAMENTO COMPUTACIONAL
+### PAULO LEMINSKI
 -1D
